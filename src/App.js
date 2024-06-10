@@ -8,6 +8,7 @@ import AddExpenseForm from './components/AddExpenseForm';
 import { AppProvider } from './context/AppContext';
 const  App = () => {
   return (
+    // This is a comment
     <AppProvider>
       <div className='container'>
       <h1 className='mt-3'>
